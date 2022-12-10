@@ -1,0 +1,32 @@
+.app {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+  background-color:beige;
+}
+
+
+ul {
+  /* Remove bullet point  */
+  list-style: none;
+  background-color:darkgoldenrod;
+}
+
+li {
+  margin: 12px 0;
+}
+
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+  background-color:white;
+  border: none;
+  color: rgb(199, 9, 9);
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
